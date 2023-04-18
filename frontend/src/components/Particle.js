@@ -91,7 +91,7 @@ const Particle = () => {
               value: { min: 1, max: 2 },
             },
           },
-        //   detectRetina: true,
+          //   detectRetina: true,
         }}
       />
     </div>

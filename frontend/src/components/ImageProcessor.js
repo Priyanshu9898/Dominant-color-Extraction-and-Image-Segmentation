@@ -12,7 +12,7 @@ const ImageProcessor = () => {
 
   const handleImageChange = (event) => {
     setImage(event.target.files[0]);
-    console.log(image);
+
 
     if(segmentedImage){
       setSegmentedImage(null);
