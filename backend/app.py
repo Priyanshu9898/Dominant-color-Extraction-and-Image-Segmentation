@@ -7,7 +7,7 @@ import numpy as np
 import cv2
 
 app = Flask(__name__)
-CORS(app, origins=['https://main.d10vhw7evvm3gm.amplifyapp.com'])
+CORS(app, origins=['https://main.d2b9edlio56cf1.amplifyapp.com'])
 
 
 def extract_dominant_colors(img, num_colors):
